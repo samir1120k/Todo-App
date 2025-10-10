@@ -147,11 +147,9 @@ Make sure you have the following installed:
 
 <div align="center">
 
-### Home Screen & Settings Screen
+### Home Screen & Settings Screen                 |                     Dark Theme
 <img src="https://github.com/user-attachments/assets/d16eb3e8-5102-49e3-910d-edcd1d9d7dab" width="200" />
 <img src="https://github.com/user-attachments/assets/2bb022eb-62bb-490f-a60f-7a35b7011c35" width="200" />
-
-### Dark Theme
 <img src="https://github.com/user-attachments/assets/f93c8446-db35-48be-b93a-b7fad793fbf9" width="200" />
 <img src="https://github.com/user-attachments/assets/ff1a7f79-6f0a-4a01-8bb2-5008c09a8485" width="200" />
 
