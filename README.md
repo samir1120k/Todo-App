@@ -147,17 +147,13 @@ Make sure you have the following installed:
 
 <div align="center">
 
-### Home Screen
-
-![Home Screen](https://via.placeholder.com/300x600/4A90E2/FFFFFF?text=Home+Screen)
-
-### Settings Screen
-
-![Settings Screen](https://via.placeholder.com/300x600/7ED321/FFFFFF?text=Settings+Screen)
+### Home Screen & Settings Screen
+<img src="https://github.com/user-attachments/assets/d16eb3e8-5102-49e3-910d-edcd1d9d7dab" width="200" />
+<img src="https://github.com/user-attachments/assets/2bb022eb-62bb-490f-a60f-7a35b7011c35" width="200" />
 
 ### Dark Theme
-
-![Dark Theme](https://via.placeholder.com/300x600/2C3E50/FFFFFF?text=Dark+Theme)
+<img src="https://github.com/user-attachments/assets/f93c8446-db35-48be-b93a-b7fad793fbf9" width="200" />
+<img src="https://github.com/user-attachments/assets/ff1a7f79-6f0a-4a01-8bb2-5008c09a8485" width="200" />
 
 </div>
 
