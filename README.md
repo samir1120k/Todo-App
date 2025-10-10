@@ -250,9 +250,9 @@ Special thanks to the creator for providing such comprehensive and well-structur
 
 ## 📞 Contact
 
-**Your Name** - [@yourusername](https://github.com/yourusername) - your.email@example.com
+**Your Name** - [@samir1120k](https://github.com/samir1120k) - samir1120k@gmail.com
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+Project Link: [https://github.com/samir1120k/Todo-App](https://github.com/samir1120k/Todo-App)
 
 ---
 
